@@ -11,7 +11,7 @@ Date Posted: 22.06.2020
 2. NPM 6.14.4
 3. Jest 26.0.1
 
-##Cloning the Project
+## Cloning the Project
 1. Create a folder in your computer for the Project
 2. Go to the project directory in the terminal
 3. Run "git clone https://github.com/UgurGumushan/GetirChallnge.git"
